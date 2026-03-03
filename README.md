@@ -3,8 +3,7 @@
 I started as a systems engineer and ended up as an economist by profession. I never left programming!
 
 - 🔭 I’m currently working on FastAPI for the backend and Next.js for the frontend.
-- 🌱 I’m currently learning Rust 🚀
-- 👯 I’m looking to collaborate on FullStack Projects.
+- 💪 I’m looking to collaborate on FullStack Projects.
 - 💬 Ask me about logic, economics and personal development.
 - 📫 How to reach me: perez.isaac.h@gmail.com
 - 😄 Pronouns: he/him
